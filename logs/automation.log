@@ -1,0 +1,19 @@
+2024-08-25 15:55:19 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ABC\eclipse-workspace\OpencartV121\final.xml"
+2024-08-25 15:55:26 INFO  TC001_AccountRegistrationTest:15 - ************Starting TC001_AccountRegistrationTest*******************
+2024-08-25 15:55:26 DEBUG TC001_AccountRegistrationTest:16 - This is a debug log message
+2024-08-25 15:55:26 INFO  TC001_AccountRegistrationTest:20 - Clicked on MyAccount
+2024-08-25 15:55:27 INFO  TC001_AccountRegistrationTest:23 - Clicked on Register
+2024-08-25 15:55:27 INFO  TC001_AccountRegistrationTest:27 - Providing the User details
+2024-08-25 15:55:28 INFO  TC001_AccountRegistrationTest:47 - Checked the PrivacyPolicy
+2024-08-25 15:55:28 INFO  TC001_AccountRegistrationTest:50 - Validating expected message..
+2024-08-25 15:55:28 DEBUG TC001_AccountRegistrationTest:57 - Test passed...
+2024-08-25 15:55:28 INFO  TC001_AccountRegistrationTest:73 - ***** Finished TC001_AccountRegistrationTest *****
+2024-08-25 15:55:37 INFO  TC001_AccountRegistrationTest:15 - ************Starting TC001_AccountRegistrationTest*******************
+2024-08-25 15:55:37 DEBUG TC001_AccountRegistrationTest:16 - This is a debug log message
+2024-08-25 15:55:38 INFO  TC001_AccountRegistrationTest:20 - Clicked on MyAccount
+2024-08-25 15:55:38 INFO  TC001_AccountRegistrationTest:23 - Clicked on Register
+2024-08-25 15:55:38 INFO  TC001_AccountRegistrationTest:27 - Providing the User details
+2024-08-25 15:55:39 INFO  TC001_AccountRegistrationTest:47 - Checked the PrivacyPolicy
+2024-08-25 15:55:40 INFO  TC001_AccountRegistrationTest:50 - Validating expected message..
+2024-08-25 15:55:40 DEBUG TC001_AccountRegistrationTest:57 - Test passed...
+2024-08-25 15:55:40 INFO  TC001_AccountRegistrationTest:73 - ***** Finished TC001_AccountRegistrationTest *****
